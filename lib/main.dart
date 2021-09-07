@@ -76,7 +76,7 @@ class _selmanBodyState extends State<selmanBody> {
   step2at() {
     setState(() {
       score = 0;
-      step = 0;
+      step = 1;
     });
   }
 
